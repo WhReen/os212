@@ -1,0 +1,6 @@
+# Log Format
+# ZCZC WEEK# MINUTES LogCode Description
+# LogCoded: https://ossp4disss.vlsm.org/ETC/logCodes.txt
+ZCZC W00 10 L01 enroll and read the course on SCELE
+ZCZC W00 10 L00 reading os00.pdf
+ZCZC W00 5 L03 create this repo and this log
