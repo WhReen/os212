@@ -7,5 +7,13 @@ ZCZC W00 5 L03 create this repo and this log
 ZCZC W00 120 L02 1st class for w00
 ZCZC W00 60 L02 2nd class for w00
 ZCZC W00 60 L00 reread os00.pdf and GSGS stuffs mentioned in os00.pdf
+ZCZC W01 5 L05 1st quiz
 ZCZC W01 120 L02 1st class for w01
 ZCZC W01 5 L03 fix this file location and index.html to index.md
+ZCZC W01 120 L08 attend Asdos's assitance session
+ZCZC W01 30 L11 prep for virtualbox
+ZCZC W01 90 L12 installing Debian Guest from scratch
+ZCZC W01 30 L13 quick reads on stuffs mentioned in os01 page 21/40
+ZCZC W01 120 L14 dressing up the Debian Guest
+ZCZC W01 10 L15 clone github and preparing for push after writing log
+ZCZC W01 5 L00 writing this log
