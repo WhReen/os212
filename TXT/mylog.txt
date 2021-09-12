@@ -17,3 +17,6 @@ ZCZC W01 30 L13 quick reads on stuffs mentioned in os01 page 21/40
 ZCZC W01 120 L14 dressing up the Debian Guest
 ZCZC W01 10 L15 clone github and preparing for push after writing log
 ZCZC W01 5 L00 writing this log
+ZCZC W01 30 L16 adding links.md and modify my index.md
+ZCZC W01 30 L19 read osc10
+ZCZC W01 60 L17 adding links on links.md for week 1
