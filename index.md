@@ -8,6 +8,6 @@ Hello os!
 This is {{ site.title }} from {{ site.author }}, {{ site.address }}.
 {{ site.description }}
 
-[LINKS HERE](links/)
+[LINKS HERE](LINKS/)
 
 Yepper[s](smth/)
