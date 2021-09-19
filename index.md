@@ -9,5 +9,6 @@ This is {{ site.title }} from {{ site.author }}, {{ site.address }}.
 {{ site.description }}
 
 [LINKS HERE](LINKS/)
+[MY PUBLIC GnuPG KEY](https://raw.githubusercontent.com/WhReen/os212/master/TXT/mypubkey.txt/)
 
-Yepper[s](smth/)
+Yepper[s](https://www.google.com/search?q=yeppers)
