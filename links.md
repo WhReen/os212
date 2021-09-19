@@ -39,6 +39,6 @@ Quick demonstration on whats happening on one of the line in  our 'myscript.sh' 
 6. [Linux(UNIX) File Permissions](https://www.liquidweb.com/kb/how-do-i-set-up-setuid-setgid-and-sticky-bits-on-linux/)<br>
 More explanation from the bits explained in OSC10 "17.4.2 Example: UNIX"<br>
 
-7. [Security Consideration for Code Signing](https://csrc.nist.gov/CSRC/media/Publications/white-paper/2018/01/26/security-considerations-for-code-signing/final/documents/security-considerations-for-code-signing.pdf)
+7. [Security Consideration for Code Signing](https://csrc.nist.gov/CSRC/media/Publications/white-paper/2018/01/26/security-considerations-for-code-signing/final/documents/security-considerations-for-code-signing.pdf)<br>
 A paper about Code Signing from NIST (national Institue of Standards and Technology)<br>
 I got curious about code signing and found this. Explains about the details about how Code Signing works.<br>
