@@ -1,5 +1,5 @@
 ---
-layout: "layout"
+# OS 212
 title: "WhReen's OS212 index page" 
 ---
 

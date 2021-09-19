@@ -1,5 +1,5 @@
 ---
-layout: "layout"
+title: OS212 Links!
 permalink: /LINKS/
 ---
 
