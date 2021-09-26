@@ -34,3 +34,5 @@ ZCZC W03 60 L15 work on assignment 5 of W03 "Add/Create Extra Virtual Disk"
 ZCZC W03 30 L17 add ranks
 ZCZC W03 60 L16 add links, not final (i think)
 ZCZC W03 5 L18 update logs
+ZCZC W03 30 L16 add final links.
+ZCZC W03 40 L06 further read OSC10.
