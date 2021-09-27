@@ -59,3 +59,28 @@ Like before, self-explanatory title. ftp are mentioned in OSC11 15.6.<br>
 
 5. [Distributed File System Explained](https://www.geeksforgeeks.org/what-is-dfsdistributed-file-system/)<br>
 Same as before, explain-itself title. DFS are also mentioned in OSC11 15.6.<br>
+
+6. [Mounting and Unmounting File Systems](https://docs.oracle.com/cd/E19455-01/805-7228/6j6q7ueup/index.html)<br>
+Guide in Oracle documentation about mounting and unmounting file systems.<br>
+In the nutshell, it's just connecting file systems to the directory tree of our operating systems.<br>
+
+7. [Linux Directiories Explained](https://www.youtube.com/watch?v=42iQKuQodW4)<br>
+Got pretty confused when i tried to explore Debian directories, so i stumbled on this video. Pretty neat explanation. Kinda like android directories when you see it with rooted access.<br>
+
+8. [Introduction to Remote File Systems](https://docs.microsoft.com/en-us/windows-hardware/drivers/ifs/introduction-to-remote-file-systems#:~:text=Remote%20file%20systems%20enable%20an,accessible%20from%20a%20client%20computer.)<br>
+I thought external storage like flashdisk and external harddisk counts as a Remote File Systems, but i was wrong.
+Remote File Systems is usually the one that's accessed from a network. This link explains it in more detail.<br>
+
+## W04
+1. [`malloc()` explained](https://www.tutorialspoint.com/c_standard_library/c_function_malloc.htm)<br>
+explaining about malloc(), just like what our lecturer ask in the forum.
+
+2. [use case of `free()` or `malloc()`](https://stackoverflow.com/questions/29444971/correct-usage-of-free-function-in-c)<br>
+pretty self explanationary. the explanation is more focused on free() and pointers tho. <br>
+
+3. [`free()` explained](https://www.tutorialspoint.com/c_standard_library/c_function_free.htm)<br>
+explaining about free(), just like what our lecturer ask in the forum.<br>
+
+4. [Use-After-Free(UAF) explained](https://cwe.mitre.org/data/definitions/416.html)<br>
+also self explanationary. it shows us what it is, how it is happen, what's the example. pretty neat not gonna lie.<br>
+
