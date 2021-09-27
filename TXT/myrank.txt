@@ -1,7 +1,10 @@
 # TOP 10 Rank
-ZCZC W01 aaqil-a
-ZCZC W01 adellamadea
-ZCZC W01 abinbintang
-ZCZC w02 ahmadrafidev
-ZCZC W02 aghoz-i
-ZCZC W02 agnesaudya
+ZCZC W02 aaqil-a
+ZCZC W02 adellamadea
+ZCZC W02 abinbintang
+ZCZC W03 ahmadrafidev
+ZCZC W03 aghoz-i
+ZCZC W03 agnesaudya
+ZCZC W04 aldariaski
+ZCZC W04 alfatihaditya
+ZCZC W04 almiramaharani
