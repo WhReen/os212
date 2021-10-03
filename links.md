@@ -84,3 +84,11 @@ explaining about free(), just like what our lecturer ask in the forum.<br>
 4. [Use-After-Free(UAF) explained](https://cwe.mitre.org/data/definitions/416.html)<br>
 also self explanationary. it shows us what it is, how it is happen, what's the example. pretty neat not gonna lie.<br>
 
+5. [Understanding Linux Software Libraries](https://opensource.com/article/21/2/linux-software-libraries)<br>
+simple guide on explaining on linux software libraries.<br>
+
+6. [C pointers explained](https://www.learnc.net/c-tutorial/c-pointer/)<br>
+explaining about C's pointer.<br>
+
+7. [Local vs Global Variable](https://www.guru99.com/local-vs-global-variable.html)<br>
+Comprehensive explanation on the differences of local and global variable.<br>
