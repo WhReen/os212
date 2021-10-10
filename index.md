@@ -10,7 +10,8 @@ This is {{ site.title }} from {{ site.author }}, {{ site.address }}.
 
 Ryanda Mahdy Ananda - 1906351064 - OS-B
 
-[LINKS HERE](LINKS/)
-[MY PUBLIC GnuPG KEY](https://raw.githubusercontent.com/WhReen/os212/master/TXT/mypubkey.txt/)
+[LINKS HERE](LINKS/)<br>
+[TIPS HERE](TIPS/)<br>
+[MY PUBLIC GnuPG KEY](https://raw.githubusercontent.com/WhReen/os212/master/TXT/mypubkey.txt/)<br>
 
 Yepper[s](https://www.google.com/search?q=yeppers)

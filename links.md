@@ -106,4 +106,11 @@ Small explanation on how page-replacement works with FIFO. very tightly packed i
 4. [Linux File Permissions (chmod)](https://tutonics.com/2012/12/linux-file-permissions-chmod-umask.html#how-read-write-and-execute-permissions-are-represented)<br>
 Explanation on how you can modify read, write, and execute permissions for file an folders in linux.<br>
 
+5. [Belady's Anomaly](https://www.geeksforgeeks.org/beladys-anomaly-in-page-replacement-algorithms/)<br>
+This is an anomaly that can happen in FIFO Page-Replacement algorithm<br>
 
+6. [What is Linux swap?](https://www.youtube.com/watch?v=0mgefj9ibRE)<br>
+Brief youtube video about swap.<br>
+
+7. [vfork()](https://man7.org/linux/man-pages/man2/vfork.2.html)<br>
+What is `vfork()`? its a linux function that "create a child process and block parent". more info in the link!<br>
