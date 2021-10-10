@@ -43,4 +43,9 @@ ZCZC W04 30 L15 fetch and extract 'WEEK04.tar.bz2.asc'
 ZCZC W04 5 L18 update log
 ZCZC W04 30 L17 add ranks
 ZCZC W04 5 L19 trying to submit W04 prematurely
- 
+ZCZC W05 60 L05 quiz W05
+ZCZC W05 100 L02 W05's 1st class
+ZCZC W05 60 L14 trying on how low my guest memory can go (512)
+ZCZC W05 5 L18 update log
+ZCZC W05 30 L17 add ranks
+ZCZC W05 5 L19 trying to submit W05 prematurely

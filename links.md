@@ -92,3 +92,18 @@ explaining about C's pointer.<br>
 
 7. [Local vs Global Variable](https://www.guru99.com/local-vs-global-variable.html)<br>
 Comprehensive explanation on the differences of local and global variable.<br>
+
+## W05
+1. [What is virtual memory (in OS)?](https://www.guru99.com/virtual-memory-in-operating-system.html)<br>
+Another perspective of virtual memory explanation. To be honest i havent read the one in OSC11 properly. The one in OSC11 is more detailed in the explanations. but you can read this first if you're feeling lazy like me currently.
+
+2. [LRU Page-Replacement algorithm](https://www.geeksforgeeks.org/program-for-least-recently-used-lru-page-replacement-algorithm/)<br>
+More indepth of how page-replacement works with LRU.<br>
+
+3. [FIFO Page-Replacement algorithm](https://prepinsta.com/operating-systems/page-replacement-algorithms/fifo/fifo-in-c/)<br>
+Small explanation on how page-replacement works with FIFO. very tightly packed information in here.<br>
+
+4. [Linux File Permissions (chmod)](https://tutonics.com/2012/12/linux-file-permissions-chmod-umask.html#how-read-write-and-execute-permissions-are-represented)<br>
+Explanation on how you can modify read, write, and execute permissions for file an folders in linux.<br>
+
+
