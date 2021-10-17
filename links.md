@@ -114,3 +114,26 @@ Brief youtube video about swap.<br>
 
 7. [vfork()](https://man7.org/linux/man-pages/man2/vfork.2.html)<br>
 What is `vfork()`? its a linux function that "create a child process and block parent". more info in the link!<br>
+
+## W06
+1. [what's fork() in C?](https://www.geeksforgeeks.org/fork-system-call/)
+This link explains what is `fork()` and what it's used for in C.
+
+2. [Multithreading](https://www.educba.com/what-is-multithreading/)<br>
+If you talk about concurency, multithreading will probably appears, this link explains about it.
+
+3. [fork() vs exec()](https://www.geeksforgeeks.org/difference-fork-exec/)<br>
+I found exec() while searching about fork(), might be interesting.<br>
+
+4. [fork() vs clone()](https://unix.stackexchange.com/questions/199686/fork-vs-clone-on-2-6-kernel-linux)<br>
+I also somehow found about clone(), why is that? maybe this link will explain.<br>
+
+5. [pipe()](https://www.geeksforgeeks.org/pipe-system-call/)<br>
+a way to communicate in multiprocessing. need to read in my opinion.<br>
+
+6. [Multitask, Multiprocess, and Multithread? What's the difference?](https://www.youtube.com/watch?v=Tn0u-IIBmtc&ab_channel=GaryExplains)<br>
+as the title explains, what's the differences?<br>
+
+7. [Concurrency VS Parallelism?](https://medium.com/@itIsMadhavan/concurrency-vs-parallelism-a-brief-review-b337c8dac350)
+parallelism also pops up frequently when i explore about concurrency. might need to read this also.
+
