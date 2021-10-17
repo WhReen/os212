@@ -50,3 +50,10 @@ ZCZC W05 5 L18 update log
 ZCZC W05 30 L17 add ranks
 ZCZC W05 5 L19 trying to submit W05 prematurely
 ZCZC W05 60 L16 add final links
+ZCZC W06 60 L05 quiz W06
+ZCZC W06 33 L02 Watch asycnshronous video
+ZCZC W06 60 L14 return guest memory to the previous one (1024)
+ZCZC W06 5 L18 update log
+ZCZC W06 30 L17 add ranks
+ZCZC W06 5 L19 submit W06
+
