@@ -137,3 +137,27 @@ as the title explains, what's the differences?<br>
 7. [Concurrency VS Parallelism?](https://medium.com/@itIsMadhavan/concurrency-vs-parallelism-a-brief-review-b337c8dac350)
 parallelism also pops up frequently when i explore about concurrency. might need to read this also.
 
+## W07
+
+1. [Race conditions](https://www.baeldung.com/cs/race-conditions)
+Explains about race conditions.
+
+2. [Cooperating process](https://www.tutorialspoint.com/cooperating-process)
+Explains about cooperating process.
+
+3. [Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)
+Explains about Process Synchronization.
+
+4. [Critical Section](https://www.geeksforgeeks.org/g-fact-70/)
+Explains about Critical Section.
+
+5. [Preemptive V.S. Non-preemptive Kernel](https://www.geeksforgeeks.org/difference-between-preemptive-and-non-preemptive-kernel-in-os/)
+Explains about the the difference between Preemptive and Non-preemptive kernel.
+
+6. [Atomically](https://stackoverflow.com/questions/15054086/what-does-atomic-mean-in-programming)
+Just small intermezzo about what atomically means. it appears in the book.
+
+7. [Semaphore](https://www.guru99.com/semaphore-in-operating-system.html)
+Explains about Semaphore.
+
+

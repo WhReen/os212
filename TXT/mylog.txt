@@ -56,4 +56,11 @@ ZCZC W06 60 L14 return guest memory to the previous one (1024)
 ZCZC W06 5 L18 update log
 ZCZC W06 30 L17 add ranks
 ZCZC W06 5 L19 submit W06
+ZCZC W07 60 L05 quiz W07
+ZCZC W07 33 L02 W07's first class
+ZCZC W07 120 L14 shared memory assignments stuffs
+ZCZC W07 5 L18 update log
+ZCZC W07 30 L17 add ranks
+ZCZC W07 5 L19 submit W07
+
 
