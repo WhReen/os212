@@ -160,4 +160,28 @@ Just small intermezzo about what atomically means. it appears in the book.
 7. [Semaphore](https://www.guru99.com/semaphore-in-operating-system.html)
 Explains about Semaphore.
 
+## W08
+
+1. [tl;dr Linux From Scratch](https://github.com/comfies/tldrlfs) <br>
+Quick explanation on linux from scratch.
+
+2. [CPU Burst Demonstration](http://cpuburst.com/) <br>
+An easy to understand demonstration tools for CPU burst.
+
+3. [CPU Scheduling](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/) <br>
+Another Explanation about CPU Scheduler
+
+4. [Preemptive & Non-preemptive Scheduling](https://www.geeksforgeeks.org/preemptive-and-non-preemptive-scheduling/) <br>
+Also another explanation about preemptive and non-preemptive scheduling in the same source as the previous one.
+
+5. [Another CPU Scheduling](https://www.u-aizu.ac.jp/~yliu/teaching/os/lec10r.html) <br>
+A more thorough explanation about CPU scheduling that i found.
+
+6. [CPU Scheduling Algorithms](https://www.guru99.com/cpu-scheduling-algorithms.html) <br>
+Another perspective on the explanation of the many kinds of CPU Scheduling Algorithms.
+
+7. [Process Contention V.S. System Contention Scope](https://www.geeksforgeeks.org/difference-between-process-contention-scope-and-system-contention-scope/) <br>
+Difference between Process Contention and System Contention Scope on Thread Scheduling.
+
+
 
