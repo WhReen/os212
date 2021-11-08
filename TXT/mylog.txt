@@ -62,5 +62,9 @@ ZCZC W07 120 L14 shared memory assignments stuffs
 ZCZC W07 5 L18 update log
 ZCZC W07 30 L17 add ranks
 ZCZC W07 5 L19 submit W07
+ZCZC W08 60 L05 quiz W08
+ZCZC W08 5 L18 update log
+ZCZC W08 30 L17 add ranks
+
 
 
