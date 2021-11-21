@@ -67,4 +67,10 @@ ZCZC W08 5 L18 update log
 ZCZC W08 30 L17 add ranks
 ZCZC W08 60 L16 add links
 ZCZC W08 240 L14 LFS assignments stuffs
-ZCZC W08 5 update log
+ZCZC W08 5 L18 update log
+ZCZC W09 60 L05 quiz W09
+ZCZC W09 5 L18 update log
+ZCZC W09 30 L17 add ranks
+ZCZC W09 60 L16 add links
+ZCZC W09 240 L14 continuing LFS assignments stuffs as much as i can
+ZCZC W09 5 L18 update log

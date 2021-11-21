@@ -183,5 +183,26 @@ Another perspective on the explanation of the many kinds of CPU Scheduling Algor
 7. [Process Contention V.S. System Contention Scope](https://www.geeksforgeeks.org/difference-between-process-contention-scope-and-system-contention-scope/) <br>
 Difference between Process Contention and System Contention Scope on Thread Scheduling.
 
+## W09
 
+1. [What is RAID?](https://www.youtube.com/watch?v=Aa0RTgxJJy8)<br>
+Video about one of data storage virtualisation technology, RAID.
+
+2. [What is Grub in Linux](https://itsfoss.com/what-is-grub/)<br>
+Yeah, what is it?
+
+3. [BIOS, CMOS, UEFI, What's the difference?](https://www.youtube.com/watch?v=LGz0Io_dh_I)<br>
+A video about the thing that matters the most when your PC's bricked or got messed up, before you just get a new one ofc lmao.
+
+4. [Hard drive while it's running](https://www.youtube.com/watch?v=p-JJp-oLx58)<br>
+Do you ever wonder what's happening in your precious hard drive? well here's a video explaining it!
+
+5. [What is "The Cloud"?](https://www.youtube.com/watch?v=dsKIpLKo8AE)<br>
+No, not that white cotton-like thing that stores water vapor. the data storage ones... btw it's a video explaining about it.
+
+6. [How SSDs Work?](https://www.youtube.com/watch?v=5Mh3o886qpg)<br>
+Do you ever wonder what's happening in your precious SSD? well here's a video explaining it!
+
+7. [How's your Electronics Work?](https://www.youtube.com/watch?v=3YfZcNUhBKY)<br>
+Do you ever wonder what's happening in your precious electronics? yeah it's also a video that explains it.
 
