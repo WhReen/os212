@@ -74,3 +74,9 @@ ZCZC W09 30 L17 add ranks
 ZCZC W09 60 L16 add links
 ZCZC W09 240 L14 continuing LFS assignments stuffs as much as i can
 ZCZC W09 5 L18 update log
+ZCZC W10 1 L05 quiz W10 (late and didnt even answer a singe question)
+ZCZC W10 120 L02 1st class for w10
+ZCZC W10 30 L17 add ranks
+ZCZC W10 60 L16 add links
+ZCZC W10 240 L14 continuing LFS assignments stuffs as much as i could
+ZCZC W10 5 L18 update log

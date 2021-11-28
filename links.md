@@ -206,3 +206,25 @@ Do you ever wonder what's happening in your precious SSD? well here's a video ex
 7. [How's your Electronics Work?](https://www.youtube.com/watch?v=3YfZcNUhBKY)<br>
 Do you ever wonder what's happening in your precious electronics? yeah it's also a video that explains it.
 
+## W10
+
+1. [Tuning IO Performance Documentation](https://documentation.suse.com/sles/12-SP4/html/SLES-all/cha-tuning-io.html) <br>
+A documentation on Kernel Tuning about tuning i/o peformance. (the website is sus(e)).<br>
+
+2. [SPI explained](https://en.wikipedia.org/wiki/Serial_Peripheral_Interface) <br>
+Wikipedia page about SPI.<br>
+
+3. [Kernel I/O Subsystem](https://iim6.tripod.com/ibam-os-html/x6158.html) <br>
+A lecture text/material(?) about Kernel I/O subsystem, in indonesian!<br>
+
+4. [DDR4 SDRAM explained](https://en.wikipedia.org/wiki/DDR4_SDRAM) <br>
+Wikipedia page about DDR4 SDRAM.<br>
+
+5. [PCH?](https://en-academic.com/dic.nsf/enwiki/10169522) <br>
+An article about PCH (Platform Controller Hub).<br>
+
+6. [SMB explained](https://en.wikipedia.org/wiki/System_Management_Bus) <br>
+Also a wikipedia page, about SMB.<br>
+
+7. [What is PCI Express?](https://searchdatacenter.techtarget.com/definition/PCI-Express) <br>
+The definition of PCI express from TechTarget dot com.<br>
